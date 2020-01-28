@@ -7,7 +7,6 @@ Created on Sun Jan 26 23:14:18 2020
 """
 
 import tensorflow as tf
-print(tf.__version__)
 import gym
 import numpy as np
 from collections import deque
